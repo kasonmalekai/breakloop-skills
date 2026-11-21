@@ -11,6 +11,8 @@ Go to **Customize → Skills**, choose **Upload**, and pick `call-to-content.zip
 ## 3. Use it
 Open a new chat and paste the transcript of a sales call, a discovery call or a coaching call. Any long video of yours works too: a webinar, a YouTube video or a podcast. Then say **"turn this into posts"**.
 
+It works best on calls where you did the talking. If someone on your team took the call, paste a two-minute voice memo or a few of your own posts with it, so the posts sound like you and not like them.
+
 Where to get a transcript: Fathom, Zoom, Otter and Google Meet all export one, and on YouTube it's **... → Show transcript**.
 
 ## What you get back
