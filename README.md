@@ -4,10 +4,12 @@ Free Claude skills for coaches, made by [@kasonmalekai](https://instagram.com/ka
 
 | Skill | What it does |
 |---|---|
+| [The scaling map](scaling-map/) | Your funnel numbers in: the math to your next number, the one thing holding you back, and the next six weeks. |
 | [The call-to-content machine](call-to-content/) | One sales call (or any long video of yours) in, a week of posts in your voice out. |
 | [The viral remix](viral-remix/) | Any reel that blew up, from any niche, rebuilt for your offer. |
 | [The funnel x-ray](funnel-xray/) | A competitor's funnel taken apart, then rebuilt around your offer. |
 | [The ad engine](ad-engine/) | Ten Meta ads from your offer or your best post, with the static images drawn for you. |
+| [The webinar builder](webinar-builder/) | Your whole book-a-call webinar as a PowerPoint deck, with what to say on every slide. |
 
 ## Install one
 1. In Claude, open **Settings → Capabilities** and turn on **Code execution and file creation**.
