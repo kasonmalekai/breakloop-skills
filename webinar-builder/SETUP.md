@@ -18,7 +18,8 @@ Open a new chat and say **"build my webinar"**, with a paragraph about your offe
 - the doubts buyers raise before they buy, and who it isn't for;
 - something you could give everyone who stays to the end;
 - live or recorded, and whether anything is really limited;
-- your name, brand colour (a hex code) and booking link.
+- your name, brand colour (a hex code) and booking link;
+- and the assets that make it convincing, as images: a photo of you, screenshots of real results (blur dates or names first), client messages or testimonials (with their OK), your method as a diagram, your booking page, your logo. Each one goes into the deck where it does its job.
 
 ## What you get back
 - the plan: the promise, the one idea, the steps, the doubts to name early, the proof
