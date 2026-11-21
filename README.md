@@ -12,9 +12,9 @@ Free Claude skills for coaches, made by [@kasonmalekai](https://instagram.com/ka
 | [The webinar builder](webinar-builder/) | Your whole book-a-call webinar as a PowerPoint deck, with what to say on every slide. |
 
 ## Install one
-1. In Claude, open **Settings → Capabilities** and turn on **Code execution and file creation**.
+1. In Claude, open **Settings → Capabilities** and make sure **Create and edit files** is on.
 2. Download the skill's `.zip` from its folder above. Don't unzip it.
-3. Go to **Customize → Skills**, choose **Upload**, and pick the ZIP.
+3. Go to **claude.ai/plugins**, click **Add**, then **Upload plugin**, and pick the ZIP (don't unzip it).
 
 Each folder's `SETUP.md` says what to give it and what you get back. Not on Claude? Each folder's `PROMPT.md` is a version for any AI.
 

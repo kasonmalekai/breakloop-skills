@@ -2,11 +2,11 @@
 
 Ten new Meta ads from your offer or your best post: video scripts in your voice, the primary text and headlines written, and the static images designed and ready to upload.
 
-## 1. Turn on code execution
-In Claude, open **Settings → Capabilities** and turn on **Code execution and file creation**. It works on the free plan.
+## 1. Turn on file creation
+In Claude, open **Settings → Capabilities** and make sure **Create and edit files** is on. Skills need it.
 
 ## 2. Upload the skill
-Go to **Customize → Skills**, choose **Upload**, and pick `ad-engine.zip`. Don't unzip it first.
+Go to **claude.ai/plugins**, click **Add**, then **Upload plugin**, pick `ad-engine.zip` and click **Upload**. Don't unzip it first.
 
 ## 3. Use it
 Open a new chat and say **"build me a batch of ads"**, then give it one of these:

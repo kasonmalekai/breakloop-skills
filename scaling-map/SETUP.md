@@ -2,11 +2,11 @@
 
 Paste your numbers and get the math to your next revenue number, the one stage holding your funnel back, the levers in order, and the next six weeks.
 
-## 1. Turn on code execution
-In Claude, open **Settings → Capabilities** and turn on **Code execution and file creation**. It works on the free plan.
+## 1. Turn on file creation
+In Claude, open **Settings → Capabilities** and make sure **Create and edit files** is on. Skills need it.
 
 ## 2. Upload the skill
-Go to **Customize → Skills**, choose **Upload**, and pick `scaling-map.zip`. Don't unzip it first.
+Go to **claude.ai/plugins**, click **Add**, then **Upload plugin**, pick `scaling-map.zip` and click **Upload**. Don't unzip it first.
 
 ## 3. Use it
 Open a new chat and say **"build my scaling map"**. Have your last 4 weeks of numbers ready:

@@ -2,11 +2,11 @@
 
 See how a competitor turns strangers into sales calls, which of their ads are paying, and get your own version written.
 
-## 1. Turn on code execution
-In Claude, open **Settings → Capabilities** and turn on **Code execution and file creation**. It works on the free plan.
+## 1. Turn on file creation
+In Claude, open **Settings → Capabilities** and make sure **Create and edit files** is on. Skills need it.
 
 ## 2. Upload the skill
-Go to **Customize → Skills**, choose **Upload**, and pick `funnel-xray.zip`. Don't unzip it first.
+Go to **claude.ai/plugins**, click **Add**, then **Upload plugin**, pick `funnel-xray.zip` and click **Upload**. Don't unzip it first.
 
 ## 3. Use it
 Open a new chat and say **"x-ray this funnel"**, then give it what you have:

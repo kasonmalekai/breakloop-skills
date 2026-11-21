@@ -2,11 +2,11 @@
 
 Your whole webinar as a PowerPoint deck, slide by slide, with what to say on each one, built to end on a booked call.
 
-## 1. Turn on code execution
-In Claude, open **Settings → Capabilities** and turn on **Code execution and file creation**. It works on the free plan.
+## 1. Turn on file creation
+In Claude, open **Settings → Capabilities** and make sure **Create and edit files** is on. Skills need it.
 
 ## 2. Upload the skill
-Go to **Customize → Skills**, choose **Upload**, and pick `webinar-builder.zip`. Don't unzip it first.
+Go to **claude.ai/plugins**, click **Add**, then **Upload plugin**, pick `webinar-builder.zip` and click **Upload**. Don't unzip it first.
 
 ## 3. Use it
 Open a new chat and say **"build my webinar"**, with a paragraph about your offer. It will ask what else it needs in one message, so have these handy (skip any you don't know):
